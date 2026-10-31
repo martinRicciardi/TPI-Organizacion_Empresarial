@@ -74,6 +74,40 @@ Su utilización estuvo orientada a:
 
 La información, las decisiones y los criterios utilizados en el desarrollo del proyecto fueron proporcionados, evaluados y revisados por el autor. La Inteligencia Artificial se utilizó como herramienta complementaria de asistencia, siendo el autor responsable del contenido final presentado.
 
+## Prompts utilizados como referencia
+
+Durante el desarrollo del proyecto se utilizaron diferentes instrucciones para orientar el trabajo con Inteligencia Artificial, principalmente relacionadas con la organización, estructuración y mejora de los informes académicos.
+
+A continuación, se presentan algunos ejemplos representativos:
+
+**1. Estructuración del trabajo**
+
+> Ayudame a organizar el contenido de esta entrega siguiendo las consignas proporcionadas. Quiero que cada apartado tenga un orden lógico y que la información esté distribuida de manera clara, sin repetir conceptos innecesariamente.
+
+**2. Organización de ideas**
+
+> A partir de la información que te proporcioné, organizá las ideas para que tengan una secuencia coherente. Respetá el contenido original y evitá agregar información que no haya mencionado.
+
+**3. Redacción académica**
+
+> Reescribí este texto utilizando una gramática más académica y profesional, adecuada para un informe universitario. Mantené el significado original, pero mejorá la claridad, cohesión y formalidad de las expresiones.
+
+**4. Corrección ortográfica y gramatical**
+
+> Revisá el siguiente texto y corregí errores de ortografía, puntuación, concordancia y gramática. No modifiques las ideas ni el contenido, solamente mejorá su presentación.
+
+**5. Revisión de coherencia**
+
+> Analizá si existe coherencia entre los distintos apartados del trabajo. Verificá que las explicaciones mantengan una continuidad lógica y que no existan contradicciones entre las propuestas desarrolladas.
+
+**6. Adaptación a las consignas**
+
+> Revisá el desarrollo de esta actividad en relación con las consignas originales. Indicame si el contenido responde a lo solicitado y si hay algún aspecto que necesite mayor claridad o desarrollo.
+
+**7. Síntesis y claridad**
+
+> Reducí la extensión de este texto manteniendo sus conceptos principales. Buscá una explicación más directa, clara y profesional, evitando expresiones redundantes.
+
 ---
 
 **Autor:** Martin Ricciardi  
