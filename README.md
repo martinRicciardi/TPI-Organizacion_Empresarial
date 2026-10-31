@@ -50,6 +50,16 @@ Además, se elaboró un diccionario de datos inicial para el futuro sistema ERP,
 
 Cada entidad cuenta con sus respectivos campos, tipos de datos y descripciones funcionales.
 
+## Flujo de trabajo
+
+El repositorio utiliza un flujo de trabajo basado en ramas de Git para organizar y documentar los cambios realizados en el proyecto.
+
+- **Rama `main`:** contiene la versión principal del trabajo, donde se encuentra el contenido consolidado de las entregas.
+- **Otras ramas:** se utilizan para incorporar nuevos cambios, realizar modificaciones y documentar avances de manera independiente.
+- **Pull Requests:** los cambios realizados en otras ramas se proponen mediante Pull Requests (PR) para su revisión e integración en la rama principal (`main`).
+
+Este flujo permite mantener organizada la evolución del proyecto, registrar los cambios realizados y centralizar las versiones finales en la rama principal.
+
 ## Declaración de uso de Inteligencia Artificial
 
 Durante el desarrollo de este proyecto se utilizaron herramientas de Inteligencia Artificial Generativa, principalmente **ChatGPT**, como apoyo en diferentes etapas del trabajo.
